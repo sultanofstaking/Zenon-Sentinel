@@ -51,4 +51,4 @@ You should see znn-cli, znnd, znn-controller, and corresponding argon2 and powli
 
 To diagnose errors in your sentinel or to learn how to pull logs go here https://github.com/sultanofstaking/Zenon-Testnet-Node-Tips
 
-## If you found helpful no need to donate, but delegation to SultanOfStaking pillar would be appreciated.
+## If you found helpful no need to donate, but delegation to SultanOfStaking pillar would be appreciated!
